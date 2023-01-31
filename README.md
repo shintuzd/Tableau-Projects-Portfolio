@@ -1,2 +1,7 @@
 # Tableau-Projects-Portfolio
-This repo contains my personal and professional data analysis projects using Tableau.
+See below for links to my Tableau projects and dashboards!
+
+| Project Name  | Description   | Dashboard Link |
+| ------------- | ------------- | -------------  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
